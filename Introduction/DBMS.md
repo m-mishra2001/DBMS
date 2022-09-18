@@ -41,3 +41,6 @@ It provides an interface between the data and the software application.
 # [DBMS VS FILE SYSTEM](https://www.javatpoint.com/dbms-vs-files-system)
 
 ![image](https://user-images.githubusercontent.com/60498472/190887537-fd1f91d7-f5f2-4768-b208-280dff9ad209.png)
+
+# [Data Abstraction]()
+![image](https://user-images.githubusercontent.com/60498472/190888614-29e2e859-17bd-4594-8a25-bd85a3552c29.png)
