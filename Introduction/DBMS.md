@@ -36,3 +36,6 @@ In large systems, a DBMS helps users and other third-party software to store and
 DBMS allows users to create their own databases as per their requirement.
 The term “DBMS” includes the user of the database and other application programs.
 It provides an interface between the data and the software application.
+
+
+# [DBMS VS FILE SYSTEM](https://www.javatpoint.com/dbms-vs-files-system)
